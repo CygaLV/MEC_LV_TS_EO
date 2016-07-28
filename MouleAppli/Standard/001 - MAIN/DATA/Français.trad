@@ -1,0 +1,207 @@
+# ===============
+# Dictionnaire de traduction
+# ===============
+#Format du fichier
+# # au début de ligne = commentaire
+# Clé | valeur
+# ===============
+#DICO_VERROUILLE
+...|...
+... à|... à
+Abaque|Abaque
+Admin (défaut)|Admin (défaut)
+Aide en ligne|Aide en ligne
+Aide en ligne ...|Aide en ligne ...
+Annuler|Annuler
+Annuler|Annuler
+ApplicationName|ApplicationName
+ApplicationVersion|ApplicationVersion
+Attention : Arborescence de données incomplète !|Attention : Arborescence de données incomplète !
+Attention : Si la "valeur traduite" contient des caractères de type %s, %d, %f ..., il s'agit de caractères de formattage*$#LF#$*de messages dynamiques. Il faut absolument que ces caractères apparaîssent dans la chaîne modifiée, et dans*$#LF#$*le même ordre.*$#LF#$*Pour info : %s remplace une chaîne de caractères, %d remplace un entier, %f remplace un nombre à virgules *$#LF#$*flottantes. (Voir syntaxe du langage C)|Attention : Si la "valeur traduite" contient des caractères de type %s, %d, %f ..., il s'agit de caractères de formattage*$#LF#$*de messages dynamiques. Il faut absolument que ces caractères apparaîssent dans la chaîne modifiée, et dans*$#LF#$*le même ordre.*$#LF#$*Pour info : %s remplace une chaîne de caractères, %d remplace un entier, %f remplace un nombre à virgules *$#LF#$*flottantes. (Voir syntaxe du langage C)
+Calibre|Calibre
+Carte standard|Carte standard
+Clear error|Clear error
+ClearError|ClearError
+Client|Client
+ClipBoard|ClipBoard
+Clé non trouvée|Clé non trouvée
+Clés|Clés
+Condition fonctionnelle|Condition fonctionnelle
+Condition fonctionnelle 2|Condition fonctionnelle 2
+ConditionFonctionnelle|ConditionFonctionnelle
+Confirmer la suppression|Confirmer la suppression
+Confirmez la suppression|Confirmez la suppression
+Confirmez la suppression ...|Confirmez la suppression ...
+Continuer|Continuer
+Continuer|Continuer
+Continuer ?|Continuer ?
+Courbe|Courbe
+Criticity|Criticity
+Criticité|Criticité
+Date|Date
+Date Fin|Date Fin
+Date début|Date début
+Date fin|Date fin
+Date prélévement|Date prélévement
+Date à date|Date à date
+Date à date :|Date à date :
+Date/Time|Date/Time
+De ...|De ...
+Dico. non verrouillé|Dico. non verrouillé
+Dico.Verrouillé|Dico.Verrouillé
+Dictionnaire|Dictionnaire
+Dictionnaire courant|Dictionnaire courant
+Dictionnaire verrouillé ?|Dictionnaire verrouillé ?
+Duplication dictionnaire|Duplication dictionnaire
+Duplication dictionnaire de traduction ...|Duplication dictionnaire de traduction ...
+Dupliquer Dictionnaire|Dupliquer Dictionnaire
+Dupliquer dictionnaire|Dupliquer dictionnaire
+Développé par|Développé par
+Ecarttype (sigma)|Ecarttype (sigma)
+Echantillon|Echantillon
+Ecran principal|Ecran principal
+Editer lot|Editer lot
+Editer prélévement|Editer prélévement
+Edition annulée ?|Edition annulée ?
+Edition des mesures|Edition des mesures
+Edition des mesures ...|Edition des mesures ...
+Effort moteur|Effort moteur
+Emitter|Emitter
+Enregistrer, puis retour au programme|Enregistrer, puis retour au programme
+Enregistrer, puis retour à l'application|Enregistrer, puis retour à l'application
+Erreur de séparateur décimal|Erreur de séparateur décimal
+Export CSV|Export CSV
+Export vers CSV|Export vers CSV
+Export vers CSV ...|Export vers CSV ...
+Fichier CSV|Fichier CSV
+Fichier FOCUS|Fichier FOCUS
+Glissant|Glissant
+Import Annulé ?|Import Annulé ?
+Import FOCUS|Import FOCUS
+Import FOCUS ...|Import FOCUS ...
+Import FOCUS en cours ...|Import FOCUS en cours ...
+Importer|Importer
+Impression|Impression
+Impression ...|Impression ...
+Imprimante|Imprimante
+Index Lot (0..n-1)|Index Lot (0..n-1)
+Initialisation en cours ...|Initialisation en cours ...
+L'Abaque existe déjà !|L'Abaque existe déjà !
+LOG|LOG
+Langue|Langue
+Largeur moyenne|Largeur moyenne
+Le VI tourne déjà|Le VI tourne déjà
+Le produit existe déjà !|Le produit existe déjà !
+Ligne d'un lot|Ligne d'un lot
+Limite est définie ?|Limite est définie ?
+Limite inférieure|Limite inférieure
+Limite inférieure LCL|Limite inférieure LCL
+Limite superieure UCL|Limite superieure UCL
+Limite supérieure|Limite supérieure
+Listbox|Listbox
+Liste fichiers LOG|Liste fichiers LOG
+Login|Login
+Login|Login
+Login ...|Login ...
+Login ...|Login ...
+Lot|Lot
+Lot %d|Lot %d
+Lot 2|Lot 2
+Lots|Lots
+Maj.Limites cond.Fonc.|Maj.Limites cond.Fonc.
+Maj.Table des sigmas|Maj.Table des sigmas
+Menu principal|Menu principal
+Message|Message
+Messages viewer|Messages viewer
+Mesures|Mesures
+Mise à jour Sigmas|Mise à jour Sigmas
+Mise à jour des limites|Mise à jour des limites
+Mise à jour limites condition fonctionnelle ...|Mise à jour limites condition fonctionnelle ...
+Mise à jour table des sigmas ...|Mise à jour table des sigmas ...
+Modes d'utilisation|Modes d'utilisation
+Modification du lot ...|Modification du lot ...
+Modification lot|Modification lot
+Mot de passe|Mot de passe
+Moy.Mobile|Moy.Mobile
+Moyenne|Moyenne
+Moyenne mobile|Moyenne mobile
+Moyenne prélévement|Moyenne prélévement
+Nb sigmas oranges|Nb sigmas oranges
+Nb sigmas rouges|Nb sigmas rouges
+New FOCUS|New FOCUS
+Nom|Nom
+Nom prelevement|Nom prelevement
+Nom produit|Nom produit
+Nombre MAX de message par fichier|Nombre MAX de message par fichier
+Nombre de mesures|Nombre de mesures
+Nombre de mesures minimum|Nombre de mesures minimum
+Nombre max de fichiers LOG|Nombre max de fichiers LOG
+Nombre maximum*$#LF#$*de lots affichés|Nombre maximum*$#LF#$*de lots affichés
+Nouveau dictionnaire|Nouveau dictionnaire
+Nouveau lot|Nouveau lot
+Nouveau prélévement|Nouveau prélévement
+Operateur|Operateur
+Opérateur|Opérateur
+Page :|Page :
+Performance|Performance
+Position Y ouvert|Position Y ouvert
+Produit|Produit
+Prélévement|Prélévement
+Prélévements du lot|Prélévements du lot
+Quitter|Quitter
+Ressort|Ressort
+Répertoire des données|Répertoire des données
+Répertoire inexistant !|Répertoire inexistant !
+Résultat glissant|Résultat glissant
+STAT|STAT
+Safety|Safety
+Saisie prélévement|Saisie prélévement
+Splash screen ...|Splash screen ...
+Standard|Standard
+StringParam|StringParam
+Suppression|Suppression
+Suppression confirmée ?|Suppression confirmée ?
+Suppression lot|Suppression lot
+Supprimer Dictionnaire|Supprimer Dictionnaire
+Supprimer Lignes|Supprimer Lignes
+Supprimer dictionnaire|Supprimer dictionnaire
+Supprimer lignes|Supprimer lignes
+Supprimer prélévement|Supprimer prélévement
+Table de sigmas|Table de sigmas
+Timeout|Timeout
+Titre|Titre
+Traduction|Traduction
+Unité|Unité
+Utilisateur|Utilisateur
+VI non trouvé !|VI non trouvé !
+Valeur|Valeur
+Valeur de référence|Valeur de référence
+Valeur traduite|Valeur traduite
+Version|Version
+View last message ...|View last message ...
+View last message...|View last message...
+Visu.Statistiques|Visu.Statistiques
+Visualisation des LOG|Visualisation des LOG
+Visualisation des conditions fonctionnelles|Visualisation des conditions fonctionnelles
+Visualisation statistiques|Visualisation statistiques
+Working|Working
+X|X
+août|août
+avril|avril
+bouton_quitter|bouton_quitter
+code|code
+décembre|décembre
+error in (no error)|error in (no error)
+error out|error out
+février|février
+janvier|janvier
+juillet|juillet
+juin|juin
+mai|mai
+mars|mars
+novembre|novembre
+octobre|octobre
+opérateur (défaut)|opérateur (défaut)
+septembre|septembre
+source|source
+status|status
