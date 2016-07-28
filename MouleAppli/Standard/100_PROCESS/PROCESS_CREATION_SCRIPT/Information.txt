@@ -1,0 +1,42 @@
+Process Creation Wizard Project
+-------------------------------
+
+Version 1.1 @ 24/09/13
+M.SAINT-BONNET / A.JOUANY
+
+-----------------------------------------------------------------------------
+				USER INSTRUCTIONS
+-----------------------------------------------------------------------------
+
++++ Getting started +++
+
+* Copy the folder which contain the project.
+* Delete the file AppConfig_ModeleAppli.ini or change in this file the data path specific to your computer.
+* Enable VI Scripting by selecting the option in Tools>>Options>>VI Server>>VI Scripting.
+  Check "Show VI Scripting functions, properties and methods" and "Display additional VI Scripting information in Context Help window".
+
++++ Bascis +++
+
+* Add a process
+	# For creating a process, you have to choose a process name and set the timeout of the process (seconds).
+	# Click on "Create Process". This action will:
+		- add an item to EnumProcess.ctl,
+		- Create a new folder and a new process VI from the process template VI,
+		- Update getProcessViPath.vi,
+		- Add the starting of this process in the setup. 
+
+* Delete a process
+	# Choose a process in the list of existing processes.
+	# Click on "Delete process" and click on "OK" if you really want to delete it.This action will :
+		- Remove the starting of this porcess,
+		- Update getProcessViPath.vi,
+		- Remove the process in EnumProcess.ctl,
+		- Delete the process folder and its content.
+
+
+-----------------------------------------------------------------------------
+                                   TO DO
+-----------------------------------------------------------------------------
+
+- Create a FGV for each process. The user could choose the commands of the FGV.
+- Create an event (from/to process)
